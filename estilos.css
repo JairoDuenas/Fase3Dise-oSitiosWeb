@@ -1,0 +1,37 @@
+body{
+	font-size: 20px;
+	background: #F2F2F2;
+	margin: 20px;
+	padding: 10px;
+	border: 20px;
+}
+
+h1{
+	text-align: center;
+	color: #005883;
+	font-size: 50px;
+
+}
+h2{
+	color: #F47920;
+}
+h3{
+	color: #F47920;
+}
+div{
+	text-align: justify-all;
+	margin: 18px;
+	border-radius: 10px;
+	background-color: #F2F2F2;
+	float: left;
+	width: 65%;
+}
+#inicio{
+	padding: 20px;
+}
+#objetivos{
+	padding: 20px;
+}
+#objetivosespecificos{
+	padding: 20px;
+}
